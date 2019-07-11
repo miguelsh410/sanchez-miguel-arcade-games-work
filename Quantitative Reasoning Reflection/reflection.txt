@@ -1,0 +1,56 @@
+
+Miguel Sanchez
+12/07/2018
+
+                        Quantitative Reasoning Responses
+
+1. When I started to do my program I did not know which methods, techniques and
+algorithms to use, so, he first thing I did when I started was to write in a piece
+of paper what my goals for my program were. Then, to decide what I was going to
+use for my program I looked at example code from the Arcade Academy and past
+labs we had done as part of the class and then I took the piece of code that I
+needed to start. I used classes as part of my program when I needed specific
+images to move in a particular manner that any other sprite, for instance, I
+needed to have snow falling all the time, so, I created a snow class to create a
+specific update method. Functions were something that I used a lot. First, to
+define multiple lines of code that I needed to use several times and I did not
+want to write every time I needed to use it, and, also to define each level separately
+and make the program run one level after each other. I also used a lot of "for"
+loops mainly to draw blocks on each level, and the "if" statements were useful to
+put conditions at the time of running some code, one example I think of is when
+I used an "if" statement to make santa shoot until the third level.
+
+2. When I write my code I always keep in mind to write it so that if someone
+looks at it, they would have an idea of what the pieces of code are about and
+what they do. First, selecting a name that describes perfectly what the functions,
+classes and variables do and are used to. I try to use comments as much as I can
+to give an explanation to code that might be confusing, or the name does not give
+enough information. To make my code even clearer, I use empty lines to separate
+code in little sections, I put code that relates to each other together and separate
+the code that has little or nothing in relation to the code that surrounds it.
+Finally, I use different type of comments that help visually. If I need to make a
+very long comment or if it is very important and needs to be put specific attention
+I use multiple-line comments even if I only write one. I use the single-line comments
+to add comments that might help.
+
+3. To test accuracy of my code, every time I write new code I run the program and
+if there is an error I fix it before writing something else. When something didn't
+work the first thing I do is to identify the lines of code related to it and the
+lines of code that I think might be causing the problem. Then I analyze each line
+and usually I solve the problem doing that. When the program is working I can say
+that the data returned is correct.
+
+4. The limitations of using only numbers to make decisions is that decisions are
+only made based on math. This is an issue because there are other aspects to keep
+in mind before making a decision. We can't replace humans for algorithms because
+humans can evaluate situations beyond its mathematical implication, we can also
+evaluate in terms  of emotion and sometimes we want to make things differently,
+something that an algorithm is not able to do since it repeats a pattern. Students
+cannot be evaluated based on test scores because even if they had a bad score, that
+doesn't mean that they were not studying or doing an effort to be successful in
+class. Same for teachers, although evaluating students is a good way to tell if
+a teacher is good, this does not guarantee that the evaluation is accurate because
+sometimes teachers are not to blame is a student is not good. The limitation of
+evaluating athletes based on their stats is that sometimes even when an athlete
+has bad stats, the have passion for what they do, something that numbers can't
+evaluate.
